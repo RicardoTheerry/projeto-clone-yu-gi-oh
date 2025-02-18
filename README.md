@@ -18,5 +18,5 @@ Copiar
 git clone https://github.com/RicardoTheerry/projeto-clone-yu-gi-oh.git
 Abra o arquivo index.html no navegador.
 
-###Licença
-*Licenciado sob a licença MIT.
+### Licença
+* Licenciado sob a licença MIT.
